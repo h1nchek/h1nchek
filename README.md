@@ -1,10 +1,26 @@
-## hello there!
+# 👋 Привет! Я [h1nchek]!
 
-i'm h1nchek and i'm
+### 🖥️ Обо мне
+Интересуюсь технологиями, крутыми утилитами и настройкой систем. Использую GitHub как удобный инструмент для поиска полезного софта и кастомизации.
 
-💻 backend developer
-🐧 linux enjoyer!
-i love rust, Go, and Dev0Ps
+- 🐧 Операционная система: **Arch Linux**
+- 🛠️ Интересы: Скрипты, автоматизация, ИИ-инструменты и компьютерные сети
+- 🤖 Тестирую: Различные нейросети (ChatGPT, Claude) и локальный софт
 
-my tg: @h1nchek
-my discord: not yet >_<
+---
+
+### 🧰 Инструменты и окружение
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+---
+
+### 📊 Моя статистика GitHub
+<!-- Красивый блок, который просто показывает, что ваш аккаунт живой -->
+<p align="left">
+  <img src="https://vercel.app" height="150" />
+</p>
