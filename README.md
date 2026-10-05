@@ -50,8 +50,6 @@ $ cat about.txt
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=h1nchek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h1nchek&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="langs" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=h1nchek&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
-
 </div>
 
 ---
